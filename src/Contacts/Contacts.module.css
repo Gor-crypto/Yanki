@@ -1,0 +1,89 @@
+.contact_main{
+ display: flex;
+ justify-content: space-around;
+ flex-direction: row;
+ margin: 70px 0;
+}
+
+.nav{
+    display: flex;
+    padding-left: 110px;
+}
+
+.icons img{
+    width: 25px;
+    height: 25px;
+    padding: 0 20px;
+}
+
+.li_a{
+    text-decoration: none;
+    list-style: none;
+    cursor: pointer;
+    color: #252525;
+
+}
+
+.li_a:hover{
+    text-decoration: none;
+    list-style: none;
+    cursor: pointer;
+    color: #adb5bd;
+
+}
+
+span{
+    color: #E0BEA2;
+}
+
+.forms_div{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 36px;
+    line-height: 42px;
+    text-align: center;
+    color: #252525;
+}
+
+.center_btn{
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+}
+
+
+.btn_form{
+    width: 600px;
+    height: 50px;
+    border-radius: 25px;
+    border: 0.5px solid #252525;
+    background: #E0BEA2;
+    color: #fff;
+    cursor: pointer;
+}
+
+.btn_form:hover{
+    width: 600px;
+    height: 50px;
+    border-radius: 25px;
+    border: 0.5px solid #252525;
+    color: #E0BEA2;
+    background: #fff;
+    cursor: pointer;
+}
+
+.dis_forms{
+    display: flex;
+    justify-content: center;
+
+}
+
+.cent{
+     width: 600px;
+     height: 38px;
+     text-align: center;
+}

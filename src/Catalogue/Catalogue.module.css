@@ -1,0 +1,153 @@
+.row {
+  display: flex;
+  justify-content: space-around;
+  flex-direction: row;
+}
+
+.nav{
+    padding-left: 60px;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 19px; 
+}
+
+.grid_container {
+  display: grid;
+  justify-content: flex-end;
+  grid-template-columns: repeat(3, 310px);
+  grid-template-rows: repeat(2, 451px);
+  gap: 90px;
+}
+
+.api_img {
+  width: 310px;
+  height: 360px;
+  object-fit: contain;
+  z-index: -1;
+}
+
+.bg_div {
+  position: relative;
+  top: 40px;
+  left: 270px;
+  width: 40px;
+  height: 40px;
+  background: #e0bea2;
+  border-radius: 0px 0px 0px 20px;
+}
+
+.api_hart {
+  position: relative;
+  top: 7px;
+  left: 9px;
+  width: 25px;
+  height: 25px;
+}
+
+.api_title {
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 19px;
+  text-align: center;
+  color: #252525;
+}
+
+.api_price {
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 19px;
+  text-align: center;
+  color: #252525;
+}
+
+.api_size {
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 19px;
+  text-align: center;
+  color: rgba(37, 37, 37, 0.5);
+}
+
+.color {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: row;
+  gap: 10px;
+}
+
+.white {
+  width: 14px;
+  height: 14px;
+  border: 1px solid black;
+  background: #fff;
+  border-radius: 25px;
+}
+
+.blue {
+  width: 14px;
+  height: 14px;
+  border: 1px solid black;
+  background: #6f83a4;
+  border-radius: 25px;
+}
+
+.bej {
+  width: 14px;
+  height: 14px;
+  border: 1px solid black;
+  background: #f1ddaa;
+  border-radius: 25px;
+}
+
+.parent_filter {
+  display: flex;
+  justify-content: start;
+  flex-direction: row;
+  padding: 0 63px;
+  gap: 220px;
+}
+
+span {
+  color: #e0bea2;
+}
+
+.black {
+  background-color: #6f83a4;
+}
+
+.bej {
+  background-color: #f1ddaa;
+}
+
+
+#membership {
+  border: none;
+  font-family: 'Raleway';
+  font-size: 16px;
+  font-weight: 300;
+  line-height: 19px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+
+option {
+  font-family: 'Raleway';
+  font-size: 16px;
+  font-weight: 300;
+  line-height: 19px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+
+#mem{
+    border: none;
+}

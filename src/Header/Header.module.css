@@ -1,0 +1,144 @@
+.bgmenu{
+    width: 40px;
+    padding-left:110px ;
+}
+
+.menu_item{
+    display: flex;
+    flex-direction: row;
+    gap: 100px;
+    padding-top: 30px;
+    list-style: none;
+    text-decoration: none;
+    color: #fff;
+}
+
+.menu_item_{
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+    list-style: none;
+    text-decoration: none;
+}
+
+.light_item_1{
+    width: 70px;
+    height: 70px;
+    z-index: 1;
+    background-image: url(./ImgLight/searchicon.png);
+    object-fit: cover;
+    background-repeat: no-repeat;
+}
+
+.dark_item_1{
+    
+    z-index: 1;
+    background-image: url(./ImgDark/Search2.png);
+    object-fit: cover;
+    background-repeat: no-repeat;
+}
+
+.light_item_2{
+    width: 70px;
+    height: 70px;
+    z-index: 1;
+    background-image: url(./ImgLight/mensicon.png);
+    object-fit: cover;
+    background-repeat: no-repeat;
+}
+
+.dark_item_2{
+    
+    z-index: 1;
+    background-image: url(./ImgDark/Men2.png);
+    object-fit: cover;
+    background-repeat: no-repeat;
+}
+
+.light_item_3{
+    width: 70px;
+    height: 70px;
+    z-index: 1;
+    background-image: url(./ImgLight/hearticon.png);
+    object-fit: cover;
+    background-repeat: no-repeat;
+}
+
+.dark_item_3{
+    
+    z-index: 1;
+    background-image: url(./ImgDark/Heart2.png);
+    object-fit: cover;
+    background-repeat: no-repeat;
+}
+
+.light_item_4{
+    width: 70px;
+    height: 70px;
+    z-index: 1;
+    background-image: url(./ImgLight/basketicon.png);
+    object-fit: cover;
+    background-repeat: no-repeat;
+}
+
+.dark_item_4{
+    
+    z-index: 1;
+    background-image: url(./ImgDark/Basket2.png);
+    object-fit: cover;
+    background-repeat: no-repeat;
+}
+
+.menu_item_ li a {
+    color: #fff;
+}
+
+.menu_item_colors li a{
+    color: #E0BEA2;
+
+}
+
+.li{
+    text-decoration: none;
+    list-style: none;
+
+
+}
+
+.li:hover{
+    text-decoration: none;
+    list-style: none;
+    color: #adb5bd ;
+    
+}
+
+
+.navbar{
+    display: flex;
+    list-style: none;
+    text-decoration: none;
+    font-family: 'Raleway';
+    font-size: 18px;
+    font-weight: 300;
+    flex-direction: row;
+    gap: 40px;
+
+}
+
+.icon_div{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    gap: 30px;
+    padding: 10px 30px;
+}
+
+.icon_div img{
+    padding: 0 25px;
+}
+
+.logo {
+    padding: 0 60px;
+}
+
+

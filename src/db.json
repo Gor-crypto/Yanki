@@ -1,0 +1,450 @@
+{
+    "shuba": [
+        {
+          "id": 1,
+          "title": "Белая шуба",
+          "image": "https://i.postimg.cc/26L0JKZW/belayashuba.jpg",
+          "size":"XS XL S M",
+          "price":"2900 грн"
+
+        },
+        {
+          "id": 2,
+          "title": "Чёрная шуба",
+          "image": "https://i.postimg.cc/L4fy3GRK/chornayashuba.jpg",
+          "size":"XS S ",
+          "price":"8900 грн"
+        },
+        {
+          "id": 3,
+          "title": "Бежевая шуба", 
+          "image": "https://i.postimg.cc/c18z5rRz/bejevayashuba.jpg",
+          "size":" XL  M",
+          "price":"2900 грн"
+        },
+        {
+            "id": 4,
+            "title": "Норковая шуба", 
+            "image": "https://i.postimg.cc/fTDvjLBm/norkvayashuba1.jpg",
+            "size":"XS XL S M",
+            "price":"3098 грн"
+        },
+        {
+            "id": 5,
+            "title": "Просто шуба", 
+            "image": "https://i.postimg.cc/GhLkTfmj/prostoshuba.jpg",
+            "size":"XL  M",
+            "price":"2900 грн"
+        },
+        {
+            "id": 6,
+            "title": "Норковая шуба 2", 
+            "image": "https://i.postimg.cc/DwzdHNVz/norkvayashuba2.jpg",
+            "size":"XS XL S M",
+            "price":"4322 грн"
+        }
+      ],
+      "palto": [
+        {
+          "id": 1,
+          "title": "Синее пальто", 
+          "image": "https://i.postimg.cc/PrV8prct/siniepalto.jpg"  ,
+          "size":"XL  M",
+          "price":"2900 грн"
+        },
+        {
+            "id": 2,
+            "title": "Бежевая пальто", 
+            "image": "https://i.postimg.cc/rFXH6Mgw/bejvayapalto.jpg"  ,
+            "size":"XS XL S M",
+            "price":"2900 грн"
+        },
+        {
+            "id": 3,
+            "title": "Чёрная пальто", 
+            "image": "https://i.postimg.cc/4yCWTQ6S/chornoepalto.jpg" , 
+            "size":"XS S",
+            "price":"2333 грн"
+        },
+        {
+            "id": 4,
+            "title": "Белая пальто", 
+            "image": "https://i.postimg.cc/8PmtqWjZ/beloepalto.jpg" ,
+            "size":"XL  M",
+            "price":"1230 грн" 
+        },
+        {
+            "id": 5,
+            "title": "Просто пальто", 
+            "image": "https://i.postimg.cc/280nQxqN/prostopalto.jpg",
+            "size":"XS S",
+            "price":"7900 грн"  
+        }
+      ],
+      "trench": [
+        {
+            "id": 1,
+            "title": "Белая тренч", 
+            "image": "https://i.postimg.cc/Hk3v75mr/belayatrench.jpg" , 
+            "size":"XS S",
+            "price":"1312 грн"
+        },
+        {
+            "id": 2,
+            "title": "Чёрная тренч", 
+            "image": "https://i.postimg.cc/4yCWTQ6S/chornoepalto.jpg" ,
+            "size":"XL  M",
+            "price":"3434 грн" 
+        },
+        {
+            "id": 3,
+            "title": "Бежевая тренч", 
+            "image": "https://i.postimg.cc/K8mszf6X/bejvitrench.jpg" ,
+            "size":"XS XL S M",
+            "price":"7777 грн" 
+        },
+        {
+            "id": 4,
+            "title": "Синее тренч", 
+            "image": "https://i.postimg.cc/Kv8M8g0q/sinietrench.jpg",  
+            "size":"XS XL S M",
+            "price":"2900 грн"
+        }    
+      ],
+      "verxnaya": [
+        {
+            "id": 1,
+            "title": "Жилет", 
+            "image": "https://i.postimg.cc/4ybQRkNY/jilet.jpg" , 
+            "size":"XS S",
+            "price":"1133 грн"
+        },
+        {
+            "id": 2,
+            "title": "Пуховик", 
+            "image": "https://i.postimg.cc/7L27y8Kq/puxavk2.jpg" , 
+            "size":"XL  M",
+            "price":"4344 грн"
+        },
+        {
+            "id": 3,
+            "title": "Худи", 
+            "image": "https://i.postimg.cc/vTW38xXH/hudi.jpg" , 
+            "size":"XS XL S M",
+            "price":"2900 грн"
+        },
+        {
+            "id": 4,
+            "title": "Жакет", 
+            "image": "https://i.postimg.cc/NjNb0c8T/jaket.jpg" ,
+            "size":"S ",
+            "price":"2900 грн" 
+        } 
+      ],
+      "puxavik": [
+        {
+            "id": 1,
+            "title": "Пуховик 1", 
+            "image": "https://i.postimg.cc/zv0HkJGF/puxavik.jpg",  
+            "size":"XS S",
+            "price":"2111 грн"
+        },
+        {
+            "id": 2,
+            "title": "Пуховик 2", 
+            "image": "https://i.postimg.cc/brz2bGpv/puxavik1.jpg" ,
+            "size":"XL  M",
+            "price":"1500 грн" 
+        },
+        {
+            "id": 3,
+            "title": "Пуховик 3", 
+            "image": "https://i.postimg.cc/QtZ784z1/puxavik3.jpg" ,
+            "size":"XS XL S M",
+            "price":"2900 грн" 
+        },
+        {
+            "id": 4,
+            "title": "Пуховик 4", 
+            "image": "https://i.postimg.cc/CxdkmfDB/puxavik4.jpg"  ,
+            "size":" S",
+            "price":"1600 грн"
+        } 
+      ],
+      "kastyum": [
+        {
+            "id": 1,
+            "title": "Костюм", 
+            "image": "https://i.postimg.cc/L6D3ypb7/kostyum1.jpg" ,
+            "size":"XS XL S M",
+            "price":"2900 грн" 
+        },
+        {
+            "id": 2,
+            "title": "Костюм 2", 
+            "image": "https://i.postimg.cc/Xq8dDfQF/kostyum2.jpg" ,
+            "size":"XL  M",
+            "price":"2930 грн" 
+        },
+        {
+            "id": 3,
+            "title": "Костюм 3", 
+            "image": "https://i.postimg.cc/9XGp7Ttc/kostyum3.jpg" ,
+            "size":"XS S",
+            "price":"2960 грн" 
+        },
+        {
+            "id": 4,
+            "title": "Костюм 4", 
+            "image": "https://i.postimg.cc/wjbcpkHQ/kostyum4.jpg" ,
+            "size":"XL  M",
+            "price":"2940 грн" 
+        } 
+      ],
+      "jaket": [
+        {
+            "id": 1,
+            "title": "Жакет", 
+            "image": "https://i.postimg.cc/TPLjYW3M/jaket1.jpg" ,
+            "size":"XS XL S M",
+            "price":"2977 грн" 
+        },
+        {
+            "id": 2,
+            "title": "Жакет 2", 
+            "image": "https://i.postimg.cc/jSqZK5ft/jaket2.jpg" ,
+            "size":"XL  M",
+            "price":"2910 грн" 
+        },
+        {
+            "id": 3,
+            "title": "Жакет 3", 
+            "image": "https://i.postimg.cc/SKJd2vVP/jaket3.jpg"  ,
+            "size":" XL S ",
+            "price":"2920 грн"
+        },
+        {
+            "id": 4,
+            "title": "Жакет 4", 
+            "image": "https://i.postimg.cc/mD9SV1vN/jaket4.jpg" ,
+            "size":"XS S",
+            "price":"2930 грн" 
+        } 
+      ],
+      "platya": [
+        {
+            "id": 1,
+            "title": "Платья ", 
+            "image": "https://i.postimg.cc/XvRfZ7rZ/platya1.jpg",
+            "size":"XL  M",
+            "price":"2950 грн"  
+        },
+        {
+            "id": 2,
+            "title": "Платья  2", 
+            "image": "https://i.postimg.cc/SscWcF9g/platya2.jpg",
+            "size":"XS XL S M",
+            "price":"2970 грн"  
+        },
+        {
+            "id": 3,
+            "title": "Платья  3", 
+            "image": "https://i.postimg.cc/qBXsRr4R/platya3.jpg",
+            "size":"XS S",
+            "price":"2990 грн"  
+        },
+        {
+            "id": 4,
+            "title": "Платья  4", 
+            "image": "https://i.postimg.cc/XvRfZ7rZ/platya1.jpg"  ,
+            "size":" M",
+            "price":"900 грн"
+        } 
+      ],
+      "rubashka": [
+        {
+            "id": 1,
+            "title": "Рубашка ", 
+            "image": "https://i.postimg.cc/mgc1QWf7/rubashka4.jpg",
+            "size":"XL  M",
+            "price":"1200 грн"  
+        },
+        {
+            "id": 2,
+            "title": "Рубашка  2", 
+            "image": "https://i.postimg.cc/tR56bzNn/rubashka3.jpg",
+            "size":"XS XL S M",
+            "price":"2900 грн"  
+        },
+        {
+            "id": 3,
+            "title": "Рубашка  3", 
+            "image": "https://i.postimg.cc/ZRPdCPkg/rubashka2.jpg",
+            "size":"XS S",
+            "price":"2100 грн"  
+        },
+        {
+            "id": 4,
+            "title": "Рубашка  4", 
+            "image": "https://i.postimg.cc/3x6p6JCL/rubashka.jpg" ,
+            "size":"XS",
+            "price":"2990 грн" 
+        } 
+      ],
+      "yubka": [
+        {
+            "id": 1,
+            "title": "Юбка ", 
+            "image": "https://i.postimg.cc/3RZkKKmQ/yubka4.jpg" ,
+            "size":"XS S",
+            "price":"2900 грн" 
+        },
+        {
+            "id": 2,
+            "title": "Юбка  2", 
+            "image": "https://i.postimg.cc/hvPfvH1z/yubka3.jpg",
+            "size":"XS XL S M",
+            "price":"2300 грн"  
+        },
+        {
+            "id": 3,
+            "title": "Юбка  3", 
+            "image": "https://i.postimg.cc/wMf3m0wW/yubka2.jpg",
+            "size":"XL  M",
+            "price":"1999 грн"  
+        },
+        {
+            "id": 4,
+            "title": "Юбка 4", 
+            "image": "https://i.postimg.cc/63K7J77h/yubka1.jpg" ,
+            "size":"XS M",
+            "price":"2000 грн" 
+        } 
+      ],
+      "futbolka": [
+        {
+            "id": 1,
+            "title": "Футболка  ", 
+            "image": "https://i.postimg.cc/hvq1YPgF/futbolka2.jpg",
+            "size":"XS XL S M",
+            "price":"1600 грн"  
+        },
+        {
+            "id": 2,
+            "title": "Топ", 
+            "image": "https://i.postimg.cc/CxWB7rSX/top1.jpg"  ,
+            "size":"XS S",
+            "price":"2999 грн"
+        },
+        {
+            "id": 3,
+            "title": "Футболка ", 
+            "image": "https://i.postimg.cc/rpPhfkKc/futbolka1.jpg" ,
+            "size":"XL  M",
+            "price":"2950 грн" 
+        },
+        {
+            "id": 4,
+            "title": "Топ",
+            "image": "https://i.postimg.cc/8CMF0dC5/top2.jpg" ,
+            "size":"XS XL S M",
+            "price":"2900 грн" 
+        } 
+      ],
+      "aksesuar": [
+        {
+            "id": 1,
+            "title": "Аксессуары 1 ", 
+            "image": "https://i.postimg.cc/63FmpXXz/aksesuar1.jpg" ,
+            "size":"S M",
+            "price":"9000 грн" 
+        },
+        {
+            "id": 2,
+            "title": "Аксессуары 2", 
+            "image": "https://i.postimg.cc/ZK8M42DF/aksesuar2.jpg",
+            "size":"XL  M",
+            "price":"230 грн"  
+        },
+        {
+            "id": 3,
+            "title": "Аксессуары 3", 
+            "image": "https://i.postimg.cc/256cd6j2/aksesuar3.jpg", 
+            "size":"XS XL S M",
+            "price": "1490 грн" 
+        },
+        {
+            "id": 4,
+            "title": "Аксессуары 4",
+            "image": "https://i.postimg.cc/hvx3J54n/aksesuar4.jpg" ,
+            "size":"XS S",
+            "price":"2900 грн" 
+        } 
+      ],
+      "sale": [
+        {
+            "id": 1,
+            "title": "Sale ", 
+            "image": "https://i.postimg.cc/RhkxDY7R/bejvayapalto20.jpg",
+            "size":"XL  M",
+            "price":"5900 грн"  
+        },
+        {
+            "id": 2,
+            "title": "Sale 2", 
+            "image": "https://i.postimg.cc/3rVhNksv/jaket.png",
+            "size":"XS XL S M",
+            "price":"3900 грн"  
+        },
+        {
+            "id": 3,
+            "title": "Sale 3", 
+            "image": "https://i.postimg.cc/RhkxDY7R/bejvayapalto20.jpg",
+            "size":"XS S",
+            "price":"1900 грн"  
+        },
+        {
+            "id": 4,
+            "title": "Sale 4",
+            "image": "https://i.postimg.cc/3rVhNksv/jaket.png",
+            "size":"S M",
+            "price":"2900 грн"  
+        } 
+      ],
+      "summer": [
+        {
+            "id": 1,
+            "title": "Summer ", 
+            "image": "https://i.postimg.cc/htSKWkFy/summer.jpg",
+            "size":"XS XL S M",
+            "price":"4321 грн"  
+        },
+        {
+            "id": 2,
+            "title": "Summer 2", 
+            "image": "https://i.postimg.cc/htSKWkFy/summer.jpg",
+            "size":"XL  M",
+            "price":"2900 грн"  
+        },
+        {
+            "id": 3,
+            "title": "Summer 3", 
+            "image": "https://i.postimg.cc/htSKWkFy/summer.jpg",
+            "size":"XS S",
+            "price":"5900 грн"  
+        },
+        {
+            "id": 4,
+            "title": "Summer 4",
+            "image": "https://i.postimg.cc/htSKWkFy/summer.jpg" ,
+            "size":" S M",
+            "price":"1900 грн" 
+        } 
+      ],
+      "vse": [
+        {
+            "id": 1,
+            "title": "Посмотреть всё"  
+        }
+      ]
+} 
